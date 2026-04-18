@@ -2,7 +2,7 @@
 
 I am a software engineer and open source creator.
 
-### 🚀 Open Source Impact
+### 🚀 Contributions to Angular
 
 **Creator of [ng-packagr](https://github.com)**:
 Built upon the idea to solve complexity *for developers*,
@@ -12,7 +12,7 @@ I created what became the industry standard for packaging Angular libraries.
 `ng-packagr` was officially **adopted by the Angular team** and integrated into the **Angular CLI**.
 Today, it continues to help thousands of developers and companies ship code efficiently.
 
-### 📈 Open Source Legacy
+### 💥 Open Source Impact
 
 While my current focus is on building enterprise systems,
 I remain blown away by the amazing things the Open Source community is building.
