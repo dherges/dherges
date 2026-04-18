@@ -1,8 +1,6 @@
 ## Hi there! I'm David 👋
 
-### Software Engineer | Open Source Creator
-
-I am a software engineer guided by the principle that *things should be simple, but not easy*.
+I am a software engineer and open source creator.
 
 ### 🚀 Open Source Impact
 
@@ -17,7 +15,7 @@ Today, it continues to help thousands of developers and companies ship code effi
 ### 📈 Open Source Legacy
 
 While my current focus is on building enterprise systems,
-I remain a strong advocate for the Open Source community.
+I remain blown away by the amazing things the Open Source community is building.
 
 Or, to put it into basketball terms:
 
