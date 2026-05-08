@@ -9,7 +9,8 @@ Built upon the idea to solve complexity *for developers*,
 rather than leaving it *to them*,
 I created what became the industry standard for packaging Angular libraries. 📦
 
-`ng-packagr` was officially **adopted by the Angular team** and integrated into the **Angular CLI**.
+`ng-packagr` was officially **adopted by the Angular team** and integrated into the **Angular CLI**. 💯
+
 Today, it remains the trusted standard for thousands of developers to ship Angular libraries across the globe. 🌏
 
 ### 💥 Open Source Impact
