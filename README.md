@@ -9,7 +9,9 @@ Built upon the idea to solve complexity *for developers*,
 rather than leaving it *to them*,
 I created what became the industry standard for packaging Angular libraries. 📦
 
-Through collaboration with the Angular team, I promoted `ng-packagr` to the **primary [build engine for libraries](https://angular.dev/tools/libraries/creating-libraries#publishing-your-library) within the Angular CLI**. ❤️
+Partnering with the Angular team,
+I brought `ng-packagr` into the Angular CLI,
+making it **[the primary build engine for the Angular library ecosystem](https://angular.dev/tools/libraries/creating-libraries#publishing-your-library)**. ❤️
 
 Today, it remains the trusted standard for thousands of developers to ship Angular libraries across the globe. 🌏
 
