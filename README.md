@@ -2,17 +2,16 @@
 
 I am a software engineer and open source creator.
 
-### 🚀 Contributions to Angular
+### 🚀 Contributions to the Angular ecosystem
 
-**Creator of [ng-packagr](https://github.com)**:
+📦 **[ng-packagr](https://github.com/ng-packagr/ng-packagr/)**: 
 Built upon the idea to solve complexity *for developers*,
 rather than leaving it *to them*,
-I created what became the industry standard for packaging Angular libraries. 📦
+I created what became the industry standard for packaging Angular libraries. 📚
 
 Partnering with the Angular team,
 I brought `ng-packagr` into the Angular CLI,
-making it **[the primary build engine for the Angular library ecosystem](https://angular.dev/tools/libraries/creating-libraries#publishing-your-library)**. ❤️
-
+making it **[the primary build engine for the Angular library ecosystem](https://angular.dev/tools/libraries/creating-libraries#publishing-your-library)**. :heart: 
 Today, it remains the trusted standard for thousands of developers to ship Angular libraries across the globe. 🌏
 
 ### 💥 Open Source Impact
@@ -20,7 +19,7 @@ Today, it remains the trusted standard for thousands of developers to ship Angul
 While my professional focus is on building enterprise systems by the day,
 I'm still amazed of the sheer scale and creativity of the Open Source community. 🤩
 
-Or, to put it into basketball terms:
+To put it into basketball terminology:
 
 > "Get over yourself and be part of something bigger."
 >
