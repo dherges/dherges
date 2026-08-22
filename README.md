@@ -5,15 +5,14 @@ I am a software engineer and open source contributor.
 
 ### 🚀 Empowering the Angular library ecosystem
 
-Publish and share Angular libraries as npm packages,
+Publish and share Angular libraries,
 with a little help from **[ng-packagr](https://github.com/ng-packagr/ng-packagr/)** 📦.
-Abstracting build configurations and handling packaging standards under the hood,
-`ng-packagr` solves ecosystem complexity *for developers* (rather than leaving it *to them*),
-making it the industry standard for Angular library development. 📚
+Solving compiler toolchain complexity *for developers* (rather than leaving it *to them*),
+`ng-packagr` is the go-to choice for library development. 📚
 
 Partnering with the Angular team, I brought `ng-packagr` into the Angular CLI,
 transforming a community-driven open source project into **[the primary build engine for the Angular library ecosystem](https://angular.dev/tools/libraries/creating-libraries#publishing-your-library)**. :heart: 
-Today, it remains the trusted go-to choice to ship Angular libraries across the globe. 🌏
+Today, it's shipping libraries in the free world... 🌏
 
 
 ### 💥 Open Source
